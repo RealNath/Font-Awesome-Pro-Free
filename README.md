@@ -13,10 +13,10 @@ Only use this for personal testing or previewing the way your websites look with
 
 ## Usage
 
-Latest release: v7.2.0
+Latest release: v7.3.0
 
 ```html
-    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v7.2.0/css/all.css">
+    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v7.3.0/css/all.css">
 ```
 
 Some icon families may not work with the `all.css`, try using the specific family (scroll down)
@@ -24,7 +24,7 @@ Some icon families may not work with the `all.css`, try using the specific famil
 To obtain an individual icon's svg directly:
 
 ```
-https://site-assets.fontawesome.com/releases/v7.2.0/svgs-full/{icon-family}-{style}/{icon-name}.svg
+https://site-assets.fontawesome.com/releases/v7.3.0/svgs-full/{icon-family}-{style}/{icon-name}.svg
 ```
 
 ```
@@ -47,10 +47,10 @@ Note:
 <summary>Classic</summary>
 
 ```html
-    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v7.2.0/css/solid.css">
-    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v7.2.0/css/regular.css">
-    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v7.2.0/css/light.css">
-    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v7.2.0/css/thin.css">
+    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v7.3.0/css/solid.css">
+    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v7.3.0/css/regular.css">
+    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v7.3.0/css/light.css">
+    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v7.3.0/css/thin.css">
 ```
 
 </details>
@@ -59,10 +59,10 @@ Note:
 <summary>Duotone</summary>
 
 ```html
-    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v7.2.0/css/duotone.css">
-    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v7.2.0/css/duotone-regular.css">
-    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v7.2.0/css/duotone-light.css">
-    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v7.2.0/css/duotone-thin.css">
+    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v7.3.0/css/duotone.css">
+    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v7.3.0/css/duotone-regular.css">
+    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v7.3.0/css/duotone-light.css">
+    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v7.3.0/css/duotone-thin.css">
 ```
 
 </details>
@@ -71,10 +71,10 @@ Note:
 <summary>Sharp</summary>
 
 ```html
-    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v7.2.0/css/sharp-solid.css">
-    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v7.2.0/css/sharp-regular.css">
-    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v7.2.0/css/sharp-light.css">
-    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v7.2.0/css/sharp-thin.css">
+    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v7.3.0/css/sharp-solid.css">
+    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v7.3.0/css/sharp-regular.css">
+    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v7.3.0/css/sharp-light.css">
+    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v7.3.0/css/sharp-thin.css">
 ```
 
 </details>
@@ -83,10 +83,10 @@ Note:
 <summary>Sharp Duotone</summary>
 
 ```html
-    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v7.2.0/css/sharp-duotone-solid.css">
-    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v7.2.0/css/sharp-duotone-regular.css">
-    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v7.2.0/css/sharp-duotone-light.css">
-    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v7.2.0/css/sharp-duotone-thin.css">
+    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v7.3.0/css/sharp-duotone-solid.css">
+    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v7.3.0/css/sharp-duotone-regular.css">
+    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v7.3.0/css/sharp-duotone-light.css">
+    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v7.3.0/css/sharp-duotone-thin.css">
 ```
 
 </details>
@@ -95,7 +95,7 @@ Note:
 <summary>Brands</summary>
 
 ```html
-    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v7.2.0/css/brands.css">
+    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v7.3.0/css/brands.css">
 ```
 
 </details>
@@ -104,7 +104,7 @@ Note:
 <summary>Chisel</summary>
 
 ```html
-    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v7.2.0/css/chisel-regular.css">
+    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v7.3.0/css/chisel-regular.css">
 ```
 
 </details>
@@ -113,7 +113,7 @@ Note:
 <summary>Etch</summary>
 
 ```html
-    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v7.2.0/css/etch-solid.css">
+    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v7.3.0/css/etch-solid.css">
 ```
 
 </details>
@@ -122,9 +122,9 @@ Note:
 <summary>Jelly</summary>
 
 ```html
-    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v7.2.0/css/jelly-regular.css">
-    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v7.2.0/css/jelly-duo-regular.css">
-    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v7.2.0/css/jelly-fill-regular.css">
+    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v7.3.0/css/jelly-regular.css">
+    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v7.3.0/css/jelly-duo-regular.css">
+    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v7.3.0/css/jelly-fill-regular.css">
 ```
 
 </details>
@@ -133,8 +133,8 @@ Note:
 <summary>Notdog</summary>
 
 ```html
-    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v7.2.0/css/notdog-solid.css">
-    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v7.2.0/css/notdog-duo-solid.css">
+    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v7.3.0/css/notdog-solid.css">
+    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v7.3.0/css/notdog-duo-solid.css">
 ```
 
 </details>
@@ -143,8 +143,8 @@ Note:
 <summary>Slab</summary>
 
 ```html
-    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v7.2.0/css/slab-regular.css">
-    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v7.2.0/css/slab-press-regular.css">
+    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v7.3.0/css/slab-regular.css">
+    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v7.3.0/css/slab-press-regular.css">
 ```
 
 </details>
@@ -153,7 +153,7 @@ Note:
 <summary>Thumprint</summary>
 
 ```html
-    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v7.2.0/css/thumbprint-light.css">
+    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v7.3.0/css/thumbprint-light.css">
 ```
 
 </details>
@@ -162,7 +162,7 @@ Note:
 <summary>Whiteboard</summary>
 
 ```html
-    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v7.2.0/css/whiteboard-semibold.css">
+    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v7.3.0/css/whiteboard-semibold.css">
 ```
 
 </details>
